@@ -1,0 +1,12 @@
+
+ Su nombre es -> 	Erick
+
+ Su apellido es -> 	Camargo
+
+ Su genero es -> 	Masculino
+
+ Su edad es -> 	20
+
+ Su cedula es -> 	1091965444
+
+ Su movil es -> 	3208880658
