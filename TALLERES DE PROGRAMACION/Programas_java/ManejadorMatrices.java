@@ -1,9 +1,9 @@
 /**
 * CLASE MANEJADORA DE MATRICES
-* @autor	Efrain Oviedo
-* @libro	Logica de Programación
+* @autor	Erick Camargo
+* @Problema	Matrices en java
 *
-* Esta clase contienen los métodos utilizados en operaciones de matrices
+* Esta clase contienen los mÃ©todos utilizados en operaciones de matrices
 */
 
 
